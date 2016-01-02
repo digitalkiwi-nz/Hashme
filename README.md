@@ -17,8 +17,6 @@ optional arguments:
 
 -----
 
-Examples:
-
 Example 1: HashMe.py c:\1.txt md5
 Calculates the MD5 hash value of the file c:\1.txt and displays it to the screen as below:
 

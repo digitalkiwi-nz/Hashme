@@ -15,6 +15,8 @@ optional arguments:
   -o OUTFILE, --outfile OUTFILE
                         Specify a CSV format output file
 
+-----
+
 Examples:
 
 Example 1: HashMe.py c:\1.txt md5

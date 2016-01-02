@@ -1,5 +1,5 @@
 # HashMe.py: Calculates the hash value of a given file OR all the files in a given folder
-# Author:    David White - david@digitalkiwi.co.nz
+# Author:    David White
 # Date:      November 2015
 
 Usage: 
